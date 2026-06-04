@@ -23,6 +23,16 @@ The project is built around cross-site concept learning for heterogeneous dermat
 
 <img width="900" height="650" src="./pipeline.png">
 
+
+## Online Demo
+
+The visual demonstration website is publicly available at:
+
+[http://47.97.69.173/visual_demo/index.html](http://47.97.69.173/visual_demo/index.html)
+
+The demo provides representative dermatology cases, concept bottleneck visualization, editable concept states, and diagnosis probability outputs for illustrating the UniCon workflow.
+
+
 ## Repository Layout
 
 ```text
@@ -120,15 +130,6 @@ python gradcam_copa_B2_4slots.py
 python sankey_plot.py
 python tsne_copa.py
 ```
-
-## Online Demo
-
-The visual demonstration website is publicly available at:
-
-[http://47.97.69.173/visual_demo/index.html](http://47.97.69.173/visual_demo/index.html)
-
-The demo provides representative dermatology cases, concept bottleneck visualization, editable concept states, and diagnosis probability outputs for illustrating the UniCon workflow.
-
 
 ## Citation
 
