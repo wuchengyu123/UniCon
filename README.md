@@ -121,10 +121,15 @@ python sankey_plot.py
 python tsne_copa.py
 ```
 
-## Visualization Demo
+## Online Demo
+
+The visual demonstration website is publicly available at:
+
+[http://47.97.69.173/visual_demo/index.html](http://47.97.69.173/visual_demo/index.html)
+
+The demo provides representative dermatology cases, concept bottleneck visualization, editable concept states, and diagnosis probability outputs for illustrating the UniCon workflow.
 
 
-、、
 ## Citation
 
 If this code is useful for your research, please cite:
