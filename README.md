@@ -21,7 +21,7 @@ The project is built around cross-site concept learning for heterogeneous dermat
 
 ## A Quick Overview 
 
-<img width="600" height="450" src="./pipeline.png">
+<img width="900" height="650" src="./pipeline.png">
 
 ## Repository Layout
 
