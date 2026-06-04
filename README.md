@@ -19,6 +19,10 @@ The project is built around cross-site concept learning for heterogeneous dermat
 - **Test-time intervention interface** for editing concept states and observing diagnosis changes.
 - **Interactive HTML demo** showing image input, concept bottleneck values, diagnosis probabilities, and Sankey-style concept-to-classifier flow.
 
+## A Quick Overview 
+
+<img width="600" height="450" src="./pipeline.png">
+
 ## Repository Layout
 
 ```text
