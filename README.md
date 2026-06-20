@@ -30,6 +30,8 @@ The visual demonstration website is publicly available at:
 
 [http://47.97.69.173/visual_demo/index.html](http://47.97.69.173/visual_demo/index.html)
 
+<img width="900" height="650" src="./interface.png">
+
 The demo provides representative dermatology cases, concept bottleneck visualization, editable concept states, and diagnosis probability outputs for illustrating the UniCon workflow.
 
 
@@ -55,15 +57,6 @@ The demo provides representative dermatology cases, concept bottleneck visualiza
 ## Data
 
 The project expects a unified metadata CSV and image folders for Derm7pt, PH2, and SkinCAP/SkinCon-style clinical images.
-
-Default local paths used in experiments:
-
-```text
-/home/wuchengyu/workfile/skin_dataset/compact_dataset_three_label.csv
-/home/wuchengyu/workfile/skin_dataset/Derm7pt/release_v0/images
-/home/wuchengyu/workfile/skin_dataset/PH2/PH2Dataset/PH2_Dataset_images
-/home/wuchengyu/workfile/skin_dataset/SkinCAP/images
-```
 
 Dataset IDs in `dataset/unified_dataset.py`:
 
